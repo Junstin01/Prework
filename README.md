@@ -1,7 +1,7 @@
 
 # Pre-work - *A tip calculator application for iOS*
 
-**Name of your app** is a tip calculator application for iOS.
+**Pre-work** is a tip calculator application for iOS.
 
 Submitted by: **Junstin Reh**
 
